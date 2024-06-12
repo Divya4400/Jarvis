@@ -1,2 +1,2 @@
 # Jarvis
-Hey, this Jarvis your the AI assistant.
+Hey, this is Jarvis your the AI assistant.
